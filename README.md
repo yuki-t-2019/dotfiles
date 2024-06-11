@@ -5,7 +5,6 @@ This repository contains my personal configuration files (dotfiles) for various 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration Files](#configuration-files)
-- [Updating Dotfiles](#updating-dotfiles)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,15 +33,6 @@ Here are some of the main configuration files included in this repository:
 - **.zshrc**: Configuration for the Zsh shell
 
 Feel free to add more configuration files as needed.
-
-## Updating Dotfiles
-To update your dotfiles, simply pull the latest changes from the repository and rerun the install script:
-
-```sh
-cd ~/dotfiles
-git pull origin main
-./install.sh
-```
 
 ## Contributing
 If you have any suggestions or improvements, feel free to open an issue or create a pull request. Contributions are welcome!
