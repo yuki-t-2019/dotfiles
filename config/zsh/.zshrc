@@ -37,5 +37,8 @@ alias ll="ls -l"
 # cargo
 . "$HOME/.cargo/env"
 
+# sheldon
+eval "$(sheldon source)"
+
 # init Starship
 eval "$(starship init zsh)"
