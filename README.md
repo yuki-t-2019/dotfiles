@@ -14,6 +14,7 @@ Before installing the dotfiles, ensure that the following tools and plugins are 
 - **sheldon**: A plugin manager for `zsh`.
 - **starship**: A cross-shell prompt.
 - **eza**: A modern replacement for `ls`.
+- **fdfind**: A modern replacement for `find`.
 
 ## Installation
 To set up the dotfiles on a new machine, follow these steps:
