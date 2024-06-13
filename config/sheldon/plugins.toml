@@ -30,10 +30,10 @@ github = "zsh-users/zsh-syntax-highlighting"
 github = "zsh-users/zsh-completions"
 
 [plugins.dotfiles-sync]
-local = "~/dotfiles/zsh"
+local = "~/dotfiles/config/zsh"
 use = ["sync.zsh"]
 apply = ["source"]
 
 [plugins.dotfiles-defers]
-local = "~/dotfiles/zsh"
+local = "~/dotfiles/config/zsh"
 use = ["{!sync,*}.zsh"]
