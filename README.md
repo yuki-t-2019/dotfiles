@@ -24,9 +24,6 @@ To set up the dotfiles on a new machine, follow these steps:
 
     This script will create symlinks from the home directory to the files in the repository.
 
-## Usage
-After running the install script, your environment will be configured with the settings defined in the dotfiles. You can customize them further by editing the files directly in the `~/dotfiles` directory.
-
 ## Configuration Files
 Here are some of the main configuration files included in this repository:
 
