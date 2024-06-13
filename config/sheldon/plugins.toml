@@ -37,3 +37,6 @@ apply = ["source"]
 [plugins.dotfiles-defers]
 local = "~/dotfiles/config/zsh"
 use = ["{!sync,*}.zsh"]
+
+[plugins.starship]
+inline = 'eval "$(starship init zsh)"'
