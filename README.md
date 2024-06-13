@@ -2,9 +2,18 @@
 This repository contains my personal configuration files (dotfiles) for various tools and applications. These files help to set up a consistent development environment across different machines.
 
 ## Table of Contents
+- [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Dependencies
+Before installing the dotfiles, ensure that the following tools and plugins are installed on your system:
+
+- **zsh**: A powerful shell that is used for running the configuration scripts.
+- **sheldon**: A plugin manager for `zsh`.
+- **starship**: A cross-shell prompt.
+- **eza**: A modern replacement for `ls`.
 
 ## Installation
 To set up the dotfiles on a new machine, follow these steps:
