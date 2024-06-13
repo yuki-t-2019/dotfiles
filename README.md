@@ -3,8 +3,6 @@ This repository contains my personal configuration files (dotfiles) for various 
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration Files](#configuration-files)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -23,13 +21,6 @@ To set up the dotfiles on a new machine, follow these steps:
     ```
 
     This script will create symlinks from the home directory to the files in the repository.
-
-## Configuration Files
-Here are some of the main configuration files included in this repository:
-
-- **.zshrc**: Configuration for the Zsh shell
-
-Feel free to add more configuration files as needed.
 
 ## Contributing
 If you have any suggestions or improvements, feel free to open an issue or create a pull request. Contributions are welcome!
