@@ -6,5 +6,3 @@ HISTSIZE=10000
 SAVEHIST=100000
 HISTFILE=~/.zsh_history
 setopt histignorealldups sharehistory
-
-

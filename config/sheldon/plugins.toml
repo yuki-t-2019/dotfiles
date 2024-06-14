@@ -23,6 +23,9 @@ defer = "{% for file in files %}zsh-defer source \"{{ file }}\"\n{% endfor %}"
 [plugins.compinit]
 inline = 'autoload -Uz compinit && zsh-defer compinit'
 
+[plugins.zsh-autosuggestions]
+github = "zsh-users/zsh-autosuggestions"
+
 [plugins.zsh-syntax-highlighting]
 github = "zsh-users/zsh-syntax-highlighting"
 
