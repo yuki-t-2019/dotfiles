@@ -11,8 +11,9 @@ This repository contains my personal configuration files (dotfiles) for various 
 Before installing the dotfiles, ensure that the following tools and plugins are installed on your system:
 
 - **zsh**: A powerful shell that is used for running the configuration scripts.
-- **sheldon**: A plugin manager for `zsh`.
+- **sheldon**: A plugin manager for zsh.
 - **starship**: A cross-shell prompt.
+- **wezterm**: A modern terminal emulator and multiplexer.
 - **eza**: A modern replacement for `ls`.
 - **fd**: A modern replacement for `find`.
 - **rg**: A modern replacement for `grep`.
