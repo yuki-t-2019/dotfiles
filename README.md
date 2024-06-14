@@ -15,6 +15,7 @@ Before installing the dotfiles, ensure that the following tools and plugins are 
 - **starship**: A cross-shell prompt.
 - **eza**: A modern replacement for `ls`.
 - **fd**: A modern replacement for `find`.
+- **rg**: A modern replacement for `grep`.
 
 ## Installation
 To set up the dotfiles on a new machine, follow these steps:

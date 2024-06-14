@@ -5,3 +5,4 @@ alias lt='eza --icons -T -L 2 -a'
 alias la="ls -la"
 alias ll="ls -l"
 alias find="fd"
+alias grep="rg"
